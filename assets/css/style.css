@@ -1039,6 +1039,7 @@ section {
 
 .team .member {
   margin-bottom: 20px;
+  margin-left: auto;
   overflow: hidden;
   border-radius: 5px;
   background: #fff;
